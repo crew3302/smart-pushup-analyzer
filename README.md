@@ -25,12 +25,6 @@ A professional desktop application that uses AI and computer vision to analyze p
 
 ---
 
-## Screenshots
-
-> _Add screenshots of the main app, webcam analysis, video analysis, and history views here._
-
----
-
 ## Installation
 
 1. **Clone the repository:**
